@@ -1,0 +1,16 @@
+{
+    "tpl": {
+        "erp": {
+            "url": "http://gitlab.jfz.net/ins-backend/ins-product-front.git",
+            "branch": "master"
+        },
+        "pc": {
+            "url": "http://gitlab.jfz.net/ins-backend/ins-product-front.git",
+            "branch": "master"
+        },
+        "h5": {
+            "url": "http://gitlab.jfz.net/ins-backend/ins-product-front.git",
+            "branch": "master"
+        }
+    }
+}
